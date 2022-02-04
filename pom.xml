@@ -51,7 +51,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>it.unimol.decathlon.MainGui</mainClass>
+                            <mainClass>it.unimol.decathlon.Main</mainClass>
                         </manifest>
                     </archive>
             </configuration>
